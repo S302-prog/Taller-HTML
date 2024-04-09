@@ -1,0 +1,50 @@
+    body {
+        background-image: url(/fondo.jpg);
+    }
+
+    h1 {
+        color: black;
+        text-align: center;
+        font-family: 'Sunny Spells Basic';
+        font-size: 115px;
+        font-weight: bold; 
+        background-color: #f6b035;
+    }
+
+    h2 {
+        color: black;
+        text-align: center;
+        font-size: 80px;
+        font-family: 'Sunny Spells Basic';
+    }
+
+    h3 {
+        color: black;
+        text-align: center;
+        font-size: 35px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight: bold; 
+    }
+
+    h4 {
+        color: black;
+        text-align: center;
+        font-size: 60px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight: bold;
+    }
+
+    ul.text li {
+        margin-bottom: 10px; 
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 30px;
+    }
+
+    .fondo {
+        background-color: #b172da;
+        border: 10px solid #000000;
+        border-radius: 20px;
+    }
+
+
+
